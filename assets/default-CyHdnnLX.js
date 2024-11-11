@@ -1,1 +1,0 @@
-import{o as s,b as t,f as e}from"./modules/vue-Bl10Un54.js";import{_ as r}from"./index-BwSvAdzK.js";const f="/assets/logo-BVClWtFA.png",a={},c={class:"slidev-layout default"};function n(o,_){return s(),t("div",c,[e(o.$slots,"default")])}const i=r(a,[["render",n]]);export{i as I,f as _};
